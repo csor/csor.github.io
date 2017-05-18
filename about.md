@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I run the blog BadAndBrokie. Check it out over at [badandbrokie.me](badandbrokie.me)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sor.cynthia@gmail.com](mailto:sor.cynthia@gmail.com)
